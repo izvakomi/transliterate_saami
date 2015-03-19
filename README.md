@@ -3,7 +3,7 @@ This is a tool that basically mirrors transliterate_udm, but is adjusted to Kild
 
 Certainly easiest to run with command:
 
-shiny::runGitHub('transliterate_udm', 'izvakomi')
+    shiny::runGitHub('transliterate_saami', 'izvakomi')
 
 However, you may need to install some packages, maybe at least:
 
