@@ -11,12 +11,16 @@ pattern,replacement,comment
 о̄,оо,
 ӯ,uu,
 э̄,ee,
-\bе̄,jee,after a word boundary
-\bё,jo,after a word boundary
-\bё̄,joo,after a word boundary
-\bӣ,jii,after a word boundary
-\bю̄,juu,after a word boundary
-\bя̄,jaa,after a word boundary
+(\b|ъ|ь|ҍ)е̄,\1jee,after a morpheme boundary
+(\b|ъ|ь|ҍ)ё,\1joo,after a word boundary
+(\b|ъ|ь|ҍ)ӣ,1jii,after a word boundary
+(\b|ъ|ь|ҍ)ю̄,\1juu,after a word boundary
+(\b|ъ|ь|ҍ)я̄,\1jaa,after a word boundary
+(\b|ъ|ь|ҍ)е,\1je,after a morpheme boundary
+(\b|ъ|ь|ҍ)ё,\1jo,after a word boundary
+(\b|ъ|ь|ҍ)и,\1ji,after a word boundary
+(\b|ъ|ь|ҍ)ю,\1ju,after a word boundary
+(\b|ъ|ь|ҍ)я,\1ja,after a word boundary
 (й|ј),j,
 (л|ӆ),l,
 (м|ӎ),m,
