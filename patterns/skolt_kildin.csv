@@ -1,7 +1,6 @@
 pattern,replacement,comment
 а̄,aa,
-дӓ,ʹda,
-тӓ,ʹta,
+(д|т)ӓ,ʹ\1a,
 а,a,
 б,b,
 в,v,
