@@ -1,14 +1,15 @@
 pattern,replacement,comment
 а̄,aa,
-ӓ,??,
+дӓ,ʹa,
+тӓ,ʹa,
 а,a,
 б,b,
 в,v,
 г,g,
 д,d,
-е̄,ee,
-ё,??,
-ё̄,??,
+\bе̄,jee,after a word boundary
+\bё,jo,after a word boundary
+\bё̄,joo,after a word boundary
 с,s,
 н,n,
 т,t,
