@@ -13,4 +13,6 @@ However, you may need to install some packages, maybe at least:
     install.packages("markdown")
     install.packages("devtools")
 
+And running it from GitHub doesn't exactly work as it should...
+
 Technical side of this app is being developed and maintained by Niko Partanen, the development of the transliteration patterns for this language pair is led by Michael Rießler.
