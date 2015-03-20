@@ -54,3 +54,4 @@ pattern,replacement,comment
 э,e,
 ю,ju,
 я,ja,
+\n,<br/>,
