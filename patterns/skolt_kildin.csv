@@ -21,7 +21,6 @@ pattern	replacement	comment
 (\b|ъ|ь|ҍ)и	\1ji	after a morpheme boundary
 (\b|ъ|ь|ҍ)ю	\1ju	after a morpheme boundary
 (\b|ъ|ь|ҍ)я	\1ja	after a morpheme boundary
-(д{1,2})ҍ ʹ\1 
 (й|ј)	j	
 (л|ӆ)	l	
 (м|ӎ)	m	
