@@ -2,7 +2,7 @@ pattern	replacement	comment
 (дт|д|т)ӓ	ʹ\1a	half-palatalized vowel a
 (дт|д|т)ӭ	ʹ\1e	half-palatalized vowel e
 (бп|б|гк|г|дт|д)ь	ʹ\1	palatalized geminates
-бп	bb	geminate
+бп  bb	geminate
 гк	gg	geminate
 дт	dd	geminate
 оа	å	
@@ -21,7 +21,7 @@ pattern	replacement	comment
 (\b|ъ|ь|ҍ)и	\1ji	after a morpheme boundary
 (\b|ъ|ь|ҍ)ю	\1ju	after a morpheme boundary
 (\b|ъ|ь|ҍ)я	\1ja	after a morpheme boundary
-(д{1,2})ҍ	ʹ\1dd 
+(д{1,2})ҍ ʹ\1 
 (й|ј)	j	
 (л|ӆ)	l	
 (м|ӎ)	m	
