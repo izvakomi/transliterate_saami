@@ -12,7 +12,7 @@ shinyUI(navbarPage("", position = "fixed-bottom",
         
 sidebarLayout(
         sidebarPanel(
-                HTML('<textarea id="text" rows="10" cols="38">Антон ка̄ллса манн.</textarea>'),
+                HTML('<textarea id="text" rows="10" cols="38"></textarea>'),
                 helpText(p("This program converts between Kildin and Skolt Saami orthographies.")),
                 
                 selectInput("inputText", 
