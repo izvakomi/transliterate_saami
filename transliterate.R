@@ -9,7 +9,7 @@
 #' transliterate("тест", "kpv-cyr2ipa")
 
 transliterate <- function(data, model){
-        pattern <- read.csv(file = model, sep = "\t")
+        pattern <- read.csv(file = model, sep = ",")
         cyr <- as.character(pattern[,1])
         lat <- as.character(pattern[,2])
         mgsub(cyr, lat, data)
