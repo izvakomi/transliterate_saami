@@ -17,10 +17,11 @@ pattern,replacement,comment
 (\b|ъ|ь|ҍ)ю̄,\1juu,after a morpheme boundary
 (\b|ъ|ь|ҍ)я̄,\1jaa,after a morpheme boundary
 (\b|ъ|ь|ҍ)е,\1je,after a morpheme boundary
-(\b|ъ|ь|ҍ)ё,\1jo,after a word boundary
-(\b|ъ|ь|ҍ)и,\1ji,after a word boundary
-(\b|ъ|ь|ҍ)ю,\1ju,after a word boundary
-(\b|ъ|ь|ҍ)я,\1ja,after a word boundary
+(\b|ъ|ь|ҍ)ё,\1jo,after a morpheme boundary
+(\b|ъ|ь|ҍ)и,\1ji,after a morpheme boundary
+(\b|ъ|ь|ҍ)ю,\1ju,after a morpheme boundary
+(\b|ъ|ь|ҍ)я,\1ja,after a morpheme boundary
+(д{1,2})ҍ,ʹ\1,
 (й|ј),j,
 (л|ӆ),l,
 (м|ӎ),m,
