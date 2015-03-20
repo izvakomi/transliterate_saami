@@ -12,7 +12,7 @@ pattern,replacement,comment
 ӯ,uu,
 э̄,ee,
 (\b|ъ|ь|ҍ)е̄,\1jee,after a morpheme boundary
-(\b|ъ|ь|ҍ)ё,\1joo,after a morpheme boundary
+(\b|ъ|ь|ҍ)ё̄,\1joo,after a morpheme boundary
 (\b|ъ|ь|ҍ)ӣ,1jii,after a morpheme boundary
 (\b|ъ|ь|ҍ)ю̄,\1juu,after a morpheme boundary
 (\b|ъ|ь|ҍ)я̄,\1jaa,after a morpheme boundary
