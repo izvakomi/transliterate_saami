@@ -1,18 +1,50 @@
 pattern,replacement,comment
+(дт|д|т)ӓ,ʹ\1a,half-palatalized vowel a
+(дт|д|т)ӭ,ʹ\1e,half-palatalized vowel e
+(бп|б|гк|г|дт|д)ь,ʹ\1,palatalized geminates
+бп,bb,geminate
+гк,gg,geminate
+дт,dd,geminate
 а̄,aa,
-(д|т)ӓ,ʹ\1a,
+о̄,оо,
+ӯ,uu,
+э̄,ee,
+\bе̄,jee,after a word boundary
+\bё,jo,after a word boundary
+\bё̄,joo,after a word boundary
+\bӣ,jii,after a word boundary
+\bю̄,juu,after a word boundary
+\bя̄,jaa,after a word boundary
+(й|ј),j,
+(л|ӆ),l,
+(м|ӎ),m,
+(н|ӊ),n,
+(р|ҏ),r,
 а,a,
 б,b,
 в,v,
 г,g,
 д,d,
-\bе̄,jee,after a word boundary
-\bё,jo,after a word boundary
-\bё̄,joo,after a word boundary
-с,s,
-н,n,
-т,t,
-л,l,
-м,m,
+ж,ž,
+з,z,
+и,i,
 к,k,
+ӈ,ŋ,
 о,o,
+п,p,
+с,s,
+т,t,
+у,u,
+ф,f,
+х,h,
+ц,c,
+ч,č,
+ш,š,
+щ,??,
+ъ,??,
+ы,õ,
+ь,??,
+ҍ,??,
+э,e,
+ю,ju,
+я,ja
