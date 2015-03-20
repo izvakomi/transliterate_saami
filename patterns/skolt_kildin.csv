@@ -1,0 +1,58 @@
+pattern,replacement,comment
+(дт|д|т)ӓ,ʹ\1a,half-palatalized vowel a
+(дт|д|т)ӭ,ʹ\1e,half-palatalized vowel e
+(бп|б|гк|г|дт|д)ь,ʹ\1,palatalized geminates
+бп,bb,geminate
+гк,gg,geminate
+дт,dd,geminate
+оа,å,
+(оа̄|о̄а̄),åå,
+а̄,aa,
+о̄,оо,
+ӯ,uu,
+э̄,ee,
+(\b|ъ|ь|ҍ)е̄,\1jee,after a morpheme boundary
+(\b|ъ|ь|ҍ)ё̄,\1joo,after a morpheme boundary
+(\b|ъ|ь|ҍ)ӣ,1jii,after a morpheme boundary
+(\b|ъ|ь|ҍ)ю̄,\1juu,after a morpheme boundary
+(\b|ъ|ь|ҍ)я̄,\1jaa,after a morpheme boundary
+(\b|ъ|ь|ҍ)е,\1je,after a morpheme boundary
+(\b|ъ|ь|ҍ)ё,\1jo,after a morpheme boundary
+(\b|ъ|ь|ҍ)и,\1ji,after a morpheme boundary
+(\b|ъ|ь|ҍ)ю,\1ju,after a morpheme boundary
+(\b|ъ|ь|ҍ)я,\1ja,after a morpheme boundary
+(д|дд)ҍ,ʹ\1,
+(й|ј),j,
+(л|ӆ),l,
+(м|ӎ),m,
+(н|ӊ),n,
+(р|ҏ),r,
+а,a,
+б,b,
+в,v,
+г,g,
+д,d,
+ж,ž,
+з,z,
+и,i,
+к,k,
+ӈ,ŋ,
+о,o,
+п,p,
+с,s,
+т,t,
+у,u,
+ф,f,
+х,h,
+ц,c,
+ч,č,
+ш,š,
+щ,??,
+ъ,??,
+ы,õ,
+ь,??,
+ҍ,??,
+э,e,
+ю,ju,
+я,ja,
+\n,<br/>,
