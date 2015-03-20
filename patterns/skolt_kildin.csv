@@ -5,6 +5,8 @@ pattern,replacement,comment
 бп,bb,geminate
 гк,gg,geminate
 дт,dd,geminate
+оа,å,
+(оа̄|о̄а̄),åå,
 а̄,aa,
 о̄,оо,
 ӯ,uu,
