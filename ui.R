@@ -13,7 +13,7 @@ shinyUI(navbarPage("", position = "fixed-bottom",
 sidebarLayout(
         sidebarPanel(
                 HTML('<textarea id="text" rows="10" cols="38"></textarea>'),
-                helpText(p("This program converts between Kildin and Skolt Saami orthographies.")),
+                helpText(p("This program converts between Kildin and Skolt Saami orthographies. You can either write your source text into the window above or you copy-paste it there.")),
                 
                 selectInput("inputText", 
                             label = p("Select input:"),
