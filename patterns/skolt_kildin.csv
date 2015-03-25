@@ -10,28 +10,22 @@ pattern,replacement,comment
 бп,bb,geminate
 гк,gg,geminate
 дт,dd,geminate
-оа,å,
-(оа̄|о̄а̄),åå,
-(\b|ъ|ь|ҍ)е̄,\1jee,after a morpheme boundary
-(\b|ъ|ь|ҍ)ё̄,\1joo,after a morpheme boundary
-(\b|ъ|ь|ҍ)ӣ,1jii,after a morpheme boundary
-(\b|ъ|ь|ҍ)ю̄,\1juu,after a morpheme boundary
-(\b|ъ|ь|ҍ)я̄,\1jaa,after a morpheme boundary
+(оа|оа̄|о̄а̄),å,
+(\b|ъ|ь|ҍ)е̄,\1je,after a morpheme boundary
+(\b|ъ|ь|ҍ)ё̄,\1jo,after a morpheme boundary
+(\b|ъ|ь|ҍ)ӣ,1ji,after a morpheme boundary
+(\b|ъ|ь|ҍ)ю̄,\1ju,after a morpheme boundary
+(\b|ъ|ь|ҍ)я̄,\1ja,after a morpheme boundary
 (\b|ъ|ь|ҍ)е,\1je,after a morpheme boundary
 (\b|ъ|ь|ҍ)ё,\1jo,after a morpheme boundary
 (\b|ъ|ь|ҍ)и,\1ji,after a morpheme boundary
 (\b|ъ|ь|ҍ)ю,\1ju,after a morpheme boundary
 (\b|ъ|ь|ҍ)я,\1ja,after a morpheme boundary
-е̄,iee,
-е,ie,
-ё̄,ioo,
-ё,io,
-ӣ,ii,
-и,i,
-я̄,eaa,
-я,ea,
-ю̄,iuu,
-ю,iu,
+(е|е̄),ie,
+(ё|ё̄),io,
+(и|ӣ,)ii,
+(я|я̄),ea,
+(ю|ю̄},iu,
 (й|ј),j,
 (л|ӆ),l,
 (м|ӎ),m,
