@@ -1,4 +1,11 @@
 pattern,replacement,comment
+кь\b,k,suffix
+мь\b,m,suffix
+нҍ\b,n,suffix
+пь\b,p,suffix
+сьт\b,st,suffix
+тҍ\b,t,suffix
+шь\b,š,suffix
 һпь,ʹpp,preaspirated palatalized
 һкь,ʹkk,preaspirated palatalized
 һтҍ,ʹtt,preaspirated half-palatalized
@@ -83,11 +90,4 @@ pattern,replacement,comment
 ы,õ,
 ь,??,
 ҍ,??,
-сьт\b,st,suffix
-нҍ\b,n,suffix
-тҍ\b,t,suffix
-кь\b,k,suffix
-пь\b,p,suffix
-шь\b,š,suffix
-мь\b,m,suffix
 \n,<br/>,
