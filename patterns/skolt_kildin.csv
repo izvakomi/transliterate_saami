@@ -9,21 +9,36 @@ pattern,replacement,comment
 һпь,ʹpp,preaspirated palatalized
 һкь,ʹkk,preaspirated palatalized
 һтҍ,ʹtt,preaspirated half-palatalized
-(бп|б|гк|г)ь,ʹ\1,palatalized geminates
-(дт|д)ҍ,ʹ\1,half-palatalized geminate
-(дт|д|т)ӓ,ʹ\1a,half-palatalized vowel a
-(дт|д|т)ӭ,ʹ\1e,half-palatalized vowel e
-(б|бб)ь,ʹ\1,palatalized C-cluster
-(в|вв)ь,ʹ\1,palatalized C-cluster
-(г|гг)ь,ʹ\1,palatalized C-cluster
-(д|дд)ҍ,ʹ\1,half-palatalized C-cluster
-(ж|жж)ь,ʹ\1,palatalized C-cluster
-(з|зз)ь,ʹ\1,palatalized C-cluster
-(к|кк)ь,ʹ\1,palatalized C-cluster
-(л|лл)ь,ʹ\1,palatalized C-cluster
-(ӆ|ӆӆ)ь,ʹ\1,palatalized C-cluster
-(м|мм)ь,ʹ\1,palatalized C-cluster
-(ӎ|ӎӎ)ь,ʹ\1,palatalized C-cluster
+(дт|д)ҍ,ʹ\1,half-palatalized dental geminate
+(нн|н|ӊӊ|ӊ)ҍ,ʹ\1,half-palatalized nasal geminate
+(ӈӈ|ӈ)ҍ,ʹ\1,half-palatalized velar geminate
+(дт|д|т)ӓ,ʹ\1a,half-palatalized dental C-center and V a
+(дт|д|т)ӭ,ʹ\1e,half-palatalized dental C-center and V e
+(нн|н|ӊӊ|ӊ)ӓ,ʹ\1a,half-palatalized nasal C-center and vowel a
+(ӈӈ|ӈ)ӓ,ʹ\1a,half-palatalized velar C-center and vowel a
+(ӈӈ|ӈ)ӭ,ʹ\1e,half-palatalized velar C-center and vowel e
+(б|бб|бп|в|вв|г|гг|гк|ж|з|к|л|лл|ӆ|ӆӆ|м|мм|ӎ|ӎӎ||п|пп|р|рр|ҏ|ҏҏ|с|сс|ф|фф|х|хх|ц|дц|ч|дч|ш|шш)ь,ʹ\1,palatalized C-cluster
+(б)е,ʹ\1e,palatalized weak C-stem
+(б)я,ʹ\1a,palatalized weak C-stem
+(в|вв)е,ʹ\1e,palatalized weak C-stem
+(в|вв)я,ʹ\1a,palatalized weak C-stem
+(г)е,ʹ\1e,palatalized C-cluster
+(г)я,ʹ\1a,palatalized C-cluster
+(ж)е,ʹ\1e,palatalized C-cluster
+(ж)я,ʹ\1a,palatalized C-cluster
+(з)е,ʹ\1e,palatalized C-cluster
+(з)я,ʹ\1a,palatalized C-cluster
+(к)е,ʹ\1e,palatalized C-cluster
+(к)я,ʹ\1a,palatalized C-cluster
+(л|лл)е,ʹ\1e,palatalized C-cluster
+(л|лл)я,ʹ\1a,palatalized C-cluster
+(ӆ|ӆӆ)е,ʹ\1e,palatalized C-cluster
+(ӆ|ӆӆ)я,ʹ\1a,palatalized C-cluster
+(м|мм)е,ʹ\1e,palatalized C-cluster
+(ӎ|ӎӎ)я,ʹ\1a,palatalized C-cluster
+(н|нн)е,ʹ\1e,palatalized C-cluster
+(ӊ|ӊӊ)я,ʹ\1a,palatalized C-cluster
+
 (н|нн)ҍ,ʹ\1,palatalized C-cluster
 (ӊ|ӊӊ)ҍ,ʹ\1,palatalized C-cluster
 (ӈ|ӈӈ)ҍ,ʹ\1,palatalized C-cluster
