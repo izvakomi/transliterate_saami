@@ -1,7 +1,12 @@
 pattern,replacement,comment
+һпь,ʹpp,preaspirated palatalized
+һкь,ʹkk,preaspirated palatalized
+һтҍ,ʹtt,preaspirated half-palatalized
+(бп|б|гк|г)ь,ʹ\1,palatalized geminates
+(дт|д)ҍ,ʹ\1,half-palatalized geminate
 (дт|д|т)ӓ,ʹ\1a,half-palatalized vowel a
 (дт|д|т)ӭ,ʹ\1e,half-palatalized vowel e
-(бп|б|гк|г|дт|д)ь,ʹ\1,palatalized geminates
+(д|дд)ҍ,ʹ\1,half-palatalized C-cluster
 бп,bb,geminate
 гк,gg,geminate
 дт,dd,geminate
@@ -26,7 +31,6 @@ pattern,replacement,comment
 ю̄,??,
 ю,??,
 я,??,
-(д|дд)ҍ,ʹ\1,
 (й|ј),j,
 (л|ӆ),l,
 (м|ӎ),m,
