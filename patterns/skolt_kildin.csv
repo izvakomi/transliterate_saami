@@ -6,7 +6,30 @@ pattern,replacement,comment
 (дт|д)ҍ,ʹ\1,half-palatalized geminate
 (дт|д|т)ӓ,ʹ\1a,half-palatalized vowel a
 (дт|д|т)ӭ,ʹ\1e,half-palatalized vowel e
+(б|бб)ь,ʹ\1,palatalized C-cluster
+(в|вв)ь,ʹ\1,palatalized C-cluster
+(г|гг)ь,ʹ\1,palatalized C-cluster
 (д|дд)ҍ,ʹ\1,half-palatalized C-cluster
+(ж|жж)ь,ʹ\1,palatalized C-cluster
+(з|зз)ь,ʹ\1,palatalized C-cluster
+(к|кк)ь,ʹ\1,palatalized C-cluster
+(л|лл)ь,ʹ\1,palatalized C-cluster
+(ӆ|ӆӆ)ь,ʹ\1,palatalized C-cluster
+(м|мм)ь,ʹ\1,palatalized C-cluster
+(ӎ|ӎӎ)ь,ʹ\1,palatalized C-cluster
+(н|нн)ҍ,ʹ\1,palatalized C-cluster
+(ӊ|ӊӊ)ҍ,ʹ\1,palatalized C-cluster
+(ӈ|ӈӈ)ҍ,ʹ\1,palatalized C-cluster
+(п|пп)ь,ʹ\1,palatalized C-cluster
+(р|рр)ь,ʹ\1,palatalized C-cluster
+(ҏ|ҏҏ)ь,ʹ\1,palatalized C-cluster
+(с|сс)ь,ʹ\1,palatalized C-cluster
+(т|тт)ҍ,ʹ\1,palatalized C-cluster
+(ф|фф)ь,ʹ\1,palatalized C-cluster
+(х|хх)ь,ʹ\1,palatalized C-cluster
+(ц|дц)ь,ʹ\1,palatalized C-cluster
+(ч|дч)ь,ʹ\1,palatalized C-cluster
+(ш|шш)ь,ʹ\1,palatalized C-cluster
 бп,bb,geminate
 гк,gg,geminate
 дт,dd,geminate
