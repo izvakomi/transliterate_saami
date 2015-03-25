@@ -38,7 +38,9 @@ pattern,replacement,comment
 (\b|ъ|ь|ҍ)и,\1ji,after a morpheme boundary
 (\b|ъ|ь|ҍ)ю,\1ju,after a morpheme boundary
 (\b|ъ|ь|ҍ)я,\1ja,after a morpheme boundary
-(е|е̄),ie,
+\b(б|в|д|ж|з|л|м|н|п|р|с|т|ф|х|ц|ч|ш)(е|е̄),\1ie,
+\b(г)(е|е̄),ǩie,
+\b(к)(е|е̄),ǧie,
 (ё|ё̄),io,
 (и|ӣ),ii,
 (я|я̄),ea,
