@@ -23,7 +23,7 @@ pattern,replacement,comment
 (\b|ъ|ь|ҍ)я,\1ja,after a morpheme boundary
 (е|е̄),ie,
 (ё|ё̄),io,
-(и|ӣ,)ii,
+(и|ӣ),ii,
 (я|я̄),ea,
 (ю|ю̄},iu,
 (й|ј),j,
