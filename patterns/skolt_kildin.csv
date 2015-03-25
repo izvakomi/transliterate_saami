@@ -22,36 +22,8 @@ pattern,replacement,comment
 (б)я,ʹ\1a,palatalized weak C-stem
 (в|вв)е,ʹ\1e,palatalized weak C-stem
 (в|вв)я,ʹ\1a,palatalized weak C-stem
-(г)е,ʹ\1e,palatalized C-cluster
-(г)я,ʹ\1a,palatalized C-cluster
-(ж)е,ʹ\1e,palatalized C-cluster
-(ж)я,ʹ\1a,palatalized C-cluster
-(з)е,ʹ\1e,palatalized C-cluster
-(з)я,ʹ\1a,palatalized C-cluster
-(к)е,ʹ\1e,palatalized C-cluster
-(к)я,ʹ\1a,palatalized C-cluster
-(л|лл)е,ʹ\1e,palatalized C-cluster
-(л|лл)я,ʹ\1a,palatalized C-cluster
-(ӆ|ӆӆ)е,ʹ\1e,palatalized C-cluster
-(ӆ|ӆӆ)я,ʹ\1a,palatalized C-cluster
-(м|мм)е,ʹ\1e,palatalized C-cluster
-(ӎ|ӎӎ)я,ʹ\1a,palatalized C-cluster
-(н|нн)е,ʹ\1e,palatalized C-cluster
-(ӊ|ӊӊ)я,ʹ\1a,palatalized C-cluster
-
-(н|нн)ҍ,ʹ\1,palatalized C-cluster
-(ӊ|ӊӊ)ҍ,ʹ\1,palatalized C-cluster
-(ӈ|ӈӈ)ҍ,ʹ\1,palatalized C-cluster
-(п|пп)ь,ʹ\1,palatalized C-cluster
-(р|рр)ь,ʹ\1,palatalized C-cluster
-(ҏ|ҏҏ)ь,ʹ\1,palatalized C-cluster
-(с|сс)ь,ʹ\1,palatalized C-cluster
-(т|тт)ҍ,ʹ\1,palatalized C-cluster
-(ф|фф)ь,ʹ\1,palatalized C-cluster
-(х|хх)ь,ʹ\1,palatalized C-cluster
-(ц|дц)ь,ʹ\1,palatalized C-cluster
-(ч|дч)ь,ʹ\1,palatalized C-cluster
-(ш|шш)ь,ʹ\1,palatalized C-cluster
+(г|ж|з|к|л|лл|ӆ|ӆӆ|м|мм)е,ʹ\1e,palatalized C-cluster
+(г|ж|з|к|л|лл|ӆ|ӆӆ|ӎ|ӎӎ)я,ʹ\1a,palatalized C-cluster
 бп,bb,geminate
 гк,gg,geminate
 дт,dd,geminate
